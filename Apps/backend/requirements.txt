@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+pydantic
+xgboost
+python-multipart
+mediapipe==0.10.14
+opencv-python-headless
+tensorflow==2.17.1
+numpy==1.26.4

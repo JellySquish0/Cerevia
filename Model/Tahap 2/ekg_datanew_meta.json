@@ -1,0 +1,9 @@
+{
+  "n_kelas": 2,
+  "nama_kelas": {
+    "0": "NSR",
+    "1": "AFib"
+  },
+  "window_size": 30,
+  "fs_ecg": 500
+}
